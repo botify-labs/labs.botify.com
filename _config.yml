@@ -1,0 +1,12 @@
+# Site settings
+title: Botify Labs
+email: hello@botify.com
+description: >
+  Botify tech blog
+baseurl: ""
+url: "http://labs.botify.com"
+twitter_username: botify
+github_username:  botify-labs
+
+# Build settings
+markdown: kramdown
